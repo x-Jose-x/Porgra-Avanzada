@@ -101,6 +101,8 @@ int main()
             std::cout << i << ' ';
         }
     }
+     cout << endl;
+   system("pause");
 }
 
 
