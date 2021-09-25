@@ -1,0 +1,6 @@
+﻿  Lab04_JoseAvalos.cpp
+C:\Users\josea\source\repos\Lab04_JoseAvalos\Lab04_JoseAvalos\Lab04_JoseAvalos.cpp(32,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\josea\source\repos\Lab04_JoseAvalos\Lab04_JoseAvalos\Lab04_JoseAvalos.cpp(22,10): warning C4101: 'posTortuga': variable local sin referencia
+C:\Users\josea\source\repos\Lab04_JoseAvalos\Lab04_JoseAvalos\Lab04_JoseAvalos.cpp(21,10): warning C4101: 'posConejo': variable local sin referencia
+C:\Users\josea\source\repos\Lab04_JoseAvalos\Lab04_JoseAvalos\Lab04_JoseAvalos.cpp(33,12): warning C4101: 'n': variable local sin referencia
+  Lab04_JoseAvalos.vcxproj -> C:\Users\josea\source\repos\Lab04_JoseAvalos\Debug\Lab04_JoseAvalos.exe
